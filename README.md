@@ -18,7 +18,7 @@ Easy-to-use interface
 
 Tech Stack:
 
-Frontend: HTML, CSS, JavaScript (or React if used)
+Frontend: HTML, CSS, JavaScript
 
 
 Use Case:
